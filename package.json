@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Socket chat server",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yael Alexander",
+  "license": "ISC",
+  "dependencies": {
+    "ngrok": "^5.0.0-beta.2",
+    "socket.io": "^4.8.1"
+  }
+}
