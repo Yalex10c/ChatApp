@@ -10,7 +10,10 @@
   "author": "Yael Alexander",
   "license": "ISC",
   "dependencies": {
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.10.1",
     "ngrok": "^5.0.0-beta.2",
+    "path": "^0.12.7",
     "socket.io": "^4.8.1"
   }
 }
